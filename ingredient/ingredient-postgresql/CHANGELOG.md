@@ -7,3 +7,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ## 0.1.1 (2022-03-28)
 
 Initial version
+
+## 0.1.2 (2022-03-28)
+
+Removed tags from template.
